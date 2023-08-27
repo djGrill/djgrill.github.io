@@ -21,7 +21,7 @@ $(document).keypress(function(e) {
     break;
     case 66:
     case 98:
-      window.open("http://blog.djgrill.com/");
+      window.open("https://blog.djgrill.com");
     break;
     case 67:
     case 99:
@@ -37,11 +37,11 @@ $(document).keypress(function(e) {
     break;
     case 70:
     case 102:
-      window.open("http://facebook.com/djGrill/");
+      window.open("https://facebook.com/djGrill");
     break;
     case 71:
     case 103:
-      window.open("https://github.com/djGrill/");
+      window.open("https://github.com/djGrill");
     break;
   }
 });

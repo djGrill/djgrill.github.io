@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://djgrill.com/</loc>
+        <loc>https://djgrill.com/</loc>
         <lastmod>2013-11-07</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>http://djgrill.com/contact</loc>
+        <loc>https://djgrill.com/contact</loc>
         <lastmod>2013-11-07</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>http://djgrill.com/developer</loc>
+        <loc>https://djgrill.com/developer</loc>
         <lastmod>2013-11-07</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>http://djgrill.com/experience</loc>
+        <loc>https://djgrill.com/experience</loc>
         <lastmod>2013-11-07</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
