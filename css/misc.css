@@ -183,3 +183,7 @@ span.logo.skype {
 .footer .social span.linkedin {
   background: url(../img/icons.png) -2px -125px no-repeat;
 }
+.footer .social span.threads {
+  background: url(../img/threads.png) no-repeat;
+  background-size: cover;
+}
