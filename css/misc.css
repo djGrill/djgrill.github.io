@@ -172,7 +172,8 @@ span.logo.skype {
   height: 25px;
 }
 .footer .social span.twitter {
-  background: url(../img/icons.png) -2px -96px no-repeat;
+  background: url(../img/x.png) no-repeat;
+  background-size: cover;
 }
 .footer .social span.instagram {
   background: url(../img/icons.png) -31px -125px no-repeat;
